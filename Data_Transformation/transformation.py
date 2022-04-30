@@ -153,6 +153,7 @@ for idx, row in df_d.iterrows():
         idx_num = idx + idx_plus
         idx_plus = idx_plus + occurrences - 1
         copy_data = df_d[idx:idx+1]
+        
         # print(copy_data)
         for i in range(occurrences-1):
             # print('h')
