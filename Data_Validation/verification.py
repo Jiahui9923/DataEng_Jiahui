@@ -113,13 +113,13 @@ assert len(df_crash_id_1) <= 999
 
 
 # Export file:
-# df_crashes = df[df["Record Type"] == 1]
-# df_vehicles = df[df["Record Type"] == 2]
-# df_participants = df[df["Record Type"] == 3]
+df_crashes = df[df["Record Type"] == 1]
+df_vehicles = df[df["Record Type"] == 2]
+df_participants = df[df["Record Type"] == 3]
 
-# df_crashes.to_csv('crashes.csv')
-# df_vehicles.to_csv('vehicles.csv')
-# df_participants.to_csv('participants.csv')
+df_crashes.to_csv('crashes.csv')
+df_vehicles.to_csv('vehicles.csv')
+df_participants.to_csv('participants.csv')
 
 # NOTE: Deprecated !
 
