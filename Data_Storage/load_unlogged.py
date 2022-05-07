@@ -91,7 +91,7 @@ def getSQLcmnds(rowlist):
     cmdlist = []
     for row in rowlist:
         valstr = row2vals(row)
-        cmd = f"INSERT INTO {TableName} VALUES ({valstr});"
+        cmd = f"INSERT INTO staging VALUES ({valstr});"
         cmdlist.append(cmd)
     return cmdlist
 
@@ -109,7 +109,7 @@ def dbconnect():
     return connection
 
 # create the target table 
-# assumes that conn is a valid, open connection to a Postgres database
+# assumes that conn is a valid, open connection to a Postgres database 
 def createTable(conn):
 
     with conn.cursor() as cursor:
@@ -154,7 +154,7 @@ def createTable(conn):
                 Unemployment        DECIMAL
             );
         """)
-        print(f"Created {TableName}")
+        print(f"Created staging")
 
 #ALTER TABLE {TableName} ADD PRIMARY KEY (CensusTract);
 #CREATE INDEX idx_{TableName}_State ON {TableName}(State);
@@ -169,7 +169,8 @@ def load(conn, icmdlist):
             cursor.execute(cmd)
         
         cursor.execute(f"""
-            INSERT INTO staging SELECT * FROM {TableName};
+            DROP TABLE IF EXISTS {TableName};
+            CREATE Table {TableName} as select * from staging;
             ALTER TABLE {TableName} ADD PRIMARY KEY (CensusTract);
             CREATE INDEX idx_{TableName}_State ON {TableName}(State);
         """)
