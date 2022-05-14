@@ -1,11 +1,12 @@
-    def acked(err, msg):
-        global delivered_records
-        """Delivery report handler called on
-        successful or failed delivery of message
-        """
-        if err is not None:
-            print("Failed to deliver message: {}".format(err))
-        else:
+    
+    
+    
+def acked(err, msg):
+    global delivered_records
+
+    if err is not None:
+        print("Failed to deliver message: {}".format(err))
+    else:
             delivered_records += 1
             print("Produced record to topic {} partition [{}] @ offset {}"
                   .format(msg.topic(), msg.partition(), msg.offset()))
