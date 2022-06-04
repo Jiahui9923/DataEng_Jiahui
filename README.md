@@ -14,5 +14,5 @@ All directories will be updated here.
 #### Week5_Data_Transforamtion ####
 
 #### Week6_Data_Storage ####
-s
+
 #### Week7_Data_Integration ####

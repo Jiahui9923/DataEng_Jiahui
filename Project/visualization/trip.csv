@@ -1,0 +1,850 @@
+  trip_id  | route_id | vehicle_id | service_key | direction 
+-----------+----------+------------+-------------+-----------
+ 171128486 |          |       4006 |             | 
+ 171128498 |          |       4006 |             | 
+ 171128564 |          |       4006 |             | 
+ 171128634 |          |       4006 |             | 
+ 171128702 |          |       4006 |             | 
+ 171128771 |          |       4006 |             | 
+ 171128839 |          |       4006 |             | 
+ 171128908 |          |       4006 |             | 
+ 171128982 |          |       4006 |             | 
+ 171129058 |          |       4006 |             | 
+ 171129129 |          |       4006 |             | 
+ 171129198 |          |       4006 |             | 
+ 171130444 |          |       4014 |             | 
+ 171130458 |          |       4014 |             | 
+ 171130487 |          |       4014 |             | 
+ 171130526 |          |       4014 |             | 
+ 171130566 |          |       4014 |             | 
+ 171130596 |          |       4014 |             | 
+ 171130624 |          |       4014 |             | 
+ 171130666 |          |       4014 |             | 
+ 171130706 |          |       4014 |             | 
+ 171130734 |          |       4014 |             | 
+ 171130766 |          |       4014 |             | 
+ 171130807 |          |       4014 |             | 
+ 171130846 |          |       4014 |             | 
+ 171130877 |          |       4014 |             | 
+ 171130905 |          |       4014 |             | 
+ 171130945 |          |       4014 |             | 
+ 171130986 |          |       4014 |             | 
+ 171131014 |          |       4014 |             | 
+ 171131045 |          |       4014 |             | 
+ 171131082 |          |       4014 |             | 
+ 171131122 |          |       4014 |             | 
+ 171131152 |          |       4014 |             | 
+ 171131181 |          |       4014 |             | 
+ 171131219 |          |       4014 |             | 
+ 171131259 |          |       4014 |             | 
+ 171131772 |          |       4016 |             | 
+ 171131799 |          |       4016 |             | 
+ 171131866 |          |       4016 |             | 
+ 171131936 |          |       4016 |             | 
+ 171132004 |          |       4016 |             | 
+ 171132076 |          |       4016 |             | 
+ 171132145 |          |       4016 |             | 
+ 171143403 |          |       4017 |             | 
+ 171143412 |          |       4017 |             | 
+ 171143458 |          |       4017 |             | 
+ 171143526 |          |       4017 |             | 
+ 171143595 |          |       4017 |             | 
+ 171143662 |          |       4017 |             | 
+ 171143736 |          |       4017 |             | 
+ 171143807 |          |       4017 |             | 
+ 171143874 |          |       4017 |             | 
+ 171143946 |          |       4017 |             | 
+ 171144012 |          |       4017 |             | 
+ 171144080 |          |       4017 |             | 
+ 171144153 |          |       4017 |             | 
+ 171145094 |          |       4019 |             | 
+ 171145107 |          |       4019 |             | 
+ 171145135 |          |       4019 |             | 
+ 171145173 |          |       4019 |             | 
+ 171145215 |          |       4019 |             | 
+ 171145243 |          |       4019 |             | 
+ 171145275 |          |       4019 |             | 
+ 171145315 |          |       4019 |             | 
+ 171145359 |          |       4019 |             | 
+ 171145389 |          |       4019 |             | 
+ 171145419 |          |       4019 |             | 
+ 171145457 |          |       4019 |             | 
+ 171145497 |          |       4019 |             | 
+ 171145523 |          |       4019 |             | 
+ 171145554 |          |       4019 |             | 
+ 171145592 |          |       4019 |             | 
+ 171145630 |          |       4019 |             | 
+ 171145657 |          |       4019 |             | 
+ 171145685 |          |       4019 |             | 
+ 171145724 |          |       4019 |             | 
+ 171145761 |          |       4019 |             | 
+ 171145787 |          |       4019 |             | 
+ 171145818 |          |       4019 |             | 
+ 171145858 |          |       4019 |             | 
+ 171145896 |          |       4019 |             | 
+ 171145922 |          |       4019 |             | 
+ 171147018 |          |       4032 |             | 
+ 171147026 |          |       4032 |             | 
+ 171147050 |          |       4032 |             | 
+ 171147116 |          |       4032 |             | 
+ 171147181 |          |       4032 |             | 
+ 171147246 |          |       4032 |             | 
+ 171147318 |          |       4032 |             | 
+ 171147384 |          |       4032 |             | 
+ 171147887 |          |       4036 |             | 
+ 171147895 |          |       4036 |             | 
+ 171147917 |          |       4036 |             | 
+ 171147984 |          |       4036 |             | 
+ 171148052 |          |       4036 |             | 
+ 171148122 |          |       4036 |             | 
+ 171148194 |          |       4036 |             | 
+ 171148260 |          |       4036 |             | 
+ 171148330 |          |       4036 |             | 
+ 171148396 |          |       4036 |             | 
+ 171148470 |          |       4036 |             | 
+ 171148543 |          |       4036 |             | 
+ 171148611 |          |       4036 |             | 
+ 171148677 |          |       4036 |             | 
+ 171133149 |          |    1298380 |             | 
+ 171133159 |          |    1298380 |             | 
+ 171133196 |          |    1298380 |             | 
+ 171133235 |          |    1298380 |             | 
+ 171133260 |          |    1298380 |             | 
+ 171133293 |          |    1298380 |             | 
+ 171133331 |          |    1298380 |             | 
+ 171133370 |          |    1298380 |             | 
+ 171133398 |          |    1298380 |             | 
+ 171133427 |          |    1298380 |             | 
+ 171133465 |          |    1298380 |             | 
+ 171133504 |          |    1298380 |             | 
+ 171133532 |          |    1298380 |             | 
+ 171133563 |          |    1298380 |             | 
+ 171133601 |          |    1298380 |             | 
+ 171133638 |          |    1298380 |             | 
+ 171133667 |          |    1298380 |             | 
+ 171133700 |          |    1298380 |             | 
+ 171133738 |          |    1298380 |             | 
+ 171133780 |          |    1298380 |             | 
+ 171133809 |          |    1298380 |             | 
+ 171133841 |          |    1298380 |             | 
+ 171133881 |          |    1298380 |             | 
+ 171133921 |          |    1298380 |             | 
+ 171133947 |          |    1298380 |             | 
+ 171133978 |          |    1298380 |             | 
+ 171134017 |          |    1298380 |             | 
+ 171134055 |          |    1298380 |             | 
+ 171134083 |          |    1298380 |             | 
+ 171124599 |        7 |       2270 | Saturday    | Out
+ 171130344 |       60 |       4012 | Saturday    | Out
+ 171131648 |       65 |       4015 | Saturday    | Out
+ 171135686 |       50 |       6004 | Saturday    | Out
+ 171149066 |       50 |       6002 | Saturday    | Back
+ 171126424 |       92 |       2289 | Saturday    | Back
+ 171147581 |       60 |       4034 | Saturday    | Out
+ 171141099 |       71 |       4003 | Saturday    | Back
+ 171140455 |       78 |       2290 | Saturday    | Back
+ 171146851 |       71 |       4031 | Saturday    | Out
+ 171141812 |       74 |       4005 | Saturday    | Back
+ 171132832 |       37 |       4033 | Saturday    | Back
+ 171131329 |       65 |       4015 | Saturday    | Out
+ 171127862 |        6 |       2404 | Saturday    | Back
+ 171147837 |       60 |       4034 | Saturday    | Out
+ 171147568 |       60 |       4034 | Saturday    | Out
+ 171125926 |       92 |       2289 | Saturday    | Back
+ 171136836 |       50 |       6009 | Saturday    | Back
+ 171128173 |       60 |       4004 | Saturday    | Back
+ 171148745 |       50 |       6002 | Saturday    | Back
+ 171135129 |       50 |       6001 | Saturday    | Back
+ 171131519 |       65 |       4015 | Saturday    | Back
+ 171138105 |       80 |       2267 | Saturday    | Back
+ 171124352 |       80 |       2270 | Saturday    | Out
+ 171125094 |       19 |       2287 | Saturday    | Back
+ 171127019 |       72 |       2401 | Saturday    | Out
+ 171142190 |       74 |       4005 | Saturday    | Out
+ 171135639 |       50 |       6004 | Saturday    | Out
+ 171136940 |       50 |       6009 | Saturday    | Back
+ 171131707 |       65 |       4015 | Saturday    | Out
+ 171137183 |       50 |       6009 | Saturday    | Out
+ 171126460 |       92 |       2289 | Saturday    | Out
+ 171128415 |       60 |       4004 | Saturday    | Out
+ 171126861 |       72 |       2401 | Saturday    | Back
+ 171128312 |       60 |       4004 | Saturday    | Back
+ 171124982 |       25 |       2287 | Saturday    | Back
+ 171144907 |       37 |       4018 | Saturday    | Out
+ 171142987 |       37 |       4010 | Saturday    | Back
+ 171128461 |       60 |       4004 | Saturday    | Out
+ 171147848 |       60 |       4034 | Saturday    | Out
+ 171140014 |       78 |       2290 | Saturday    | Out
+ 171131539 |       65 |       4015 | Saturday    | Back
+ 171131341 |       65 |       4015 | Saturday    | Back
+ 171124688 |       80 |       2270 | Saturday    | Back
+ 171127583 |        6 |       2404 | Saturday    | Out
+ 171128019 |        6 |       2404 | Saturday    | Back
+ 171126319 |       92 |       2289 | Saturday    | Out
+ 171144312 |       37 |       4018 | Saturday    | Back
+ 171127443 |        6 |       2404 | Saturday    | Out
+ 171141786 |       74 |       4005 | Saturday    | Out
+ 171128138 |       60 |       4004 | Saturday    | Out
+ 171142218 |       74 |       4005 | Saturday    | Back
+ 171137056 |       50 |       6009 | Saturday    | Back
+ 171134972 |       50 |       6001 | Saturday    | Back
+ 171136326 |       50 |       6004 | Saturday    | Out
+ 171141695 |       74 |       4005 | Saturday    | Out
+ 171139033 |       19 |       2288 | Saturday    | Out
+ 171136256 |       50 |       6004 | Saturday    | Out
+ 171135443 |       50 |       6001 | Saturday    | Back
+ 171126353 |       92 |       2289 | Saturday    | Back
+ 171147674 |       60 |       4034 | Saturday    | Out
+ 171131628 |       65 |       4015 | Saturday    | Out
+ 171140422 |       78 |       2290 | Saturday    | Out
+ 171149392 |       50 |       6003 | Saturday    | Back
+ 171141579 |       71 |       4003 | Saturday    | Out
+ 171147585 |       60 |       4034 | Saturday    | Back
+ 171128234 |       60 |       4004 | Saturday    | Back
+ 171139207 |       25 |       2288 | Saturday    | Back
+ 171140122 |       78 |       2290 | Saturday    | Back
+ 171148988 |       50 |       6002 | Saturday    | Out
+ 171128355 |       60 |       4004 | Saturday    | Out
+ 171128033 |        6 |       2404 | Saturday    | Back
+ 171143285 |       37 |       4010 | Saturday    | Back
+ 171128124 |       60 |       4004 | Saturday    | Out
+ 171137027 |       50 |       6009 | Saturday    | Out
+ 171142269 |       74 |       4005 | Saturday    | Back
+ 171139672 |       25 |       2288 | Saturday    | Out
+ 171134790 |       37 |       4038 | Saturday    | Back
+ 171148876 |       50 |       6002 | Saturday    | Out
+ 171146394 |       71 |       4031 | Saturday    | Out
+ 171127266 |       72 |       2401 | Saturday    | Back
+ 171131506 |       65 |       4015 | Saturday    | Out
+ 171130418 |       60 |       4012 | Saturday    | Out
+ 171135342 |       50 |       6001 | Saturday    | Back
+ 171129980 |       37 |       4009 | Saturday    | Out
+ 171125502 |       19 |       2287 | Saturday    | Back
+ 171144740 |       37 |       4018 | Saturday    | Back
+ 171135201 |       50 |       6001 | Saturday    | Out
+ 171130334 |       60 |       4012 | Saturday    | Out
+ 171147487 |       60 |       4034 | Saturday    | Back
+ 171141137 |       71 |       4003 | Saturday    | Out
+ 171125757 |       92 |       2289 | Saturday    | Out
+ 171130406 |       60 |       4012 | Saturday    | Back
+ 171134240 |       37 |       4038 | Saturday    | Back
+ 171146966 |       71 |       4031 | Saturday    | Out
+ 171135732 |       50 |       6004 | Saturday    | Out
+ 171129595 |       37 |       4009 | Saturday    | Back
+ 171128206 |       60 |       4004 | Saturday    | Back
+ 171138636 |        7 |       2286 | Saturday    | Out
+ 171140356 |       78 |       2290 | Saturday    | Out
+ 171147644 |       60 |       4034 | Saturday    | Out
+ 171128132 |       60 |       4004 | Saturday    | Back
+ 171131559 |       65 |       4015 | Saturday    | Back
+ 171131361 |       65 |       4015 | Saturday    | Back
+ 171130359 |       60 |       4012 | Saturday    | Out
+ 171136777 |       50 |       6007 | Saturday    | Out
+ 171147521 |       60 |       4034 | Saturday    | Out
+ 171138540 |       80 |       2286 | Saturday    | Back
+ 171127394 |       72 |       2401 | Saturday    | Back
+ 171147649 |       60 |       4034 | Saturday    | Back
+ 171127715 |        6 |       2404 | Saturday    | Out
+ 171141861 |       74 |       4005 | Saturday    | Back
+ 171148734 |       50 |       6002 | Saturday    | Out
+ 171136100 |       50 |       6004 | Saturday    | Out
+ 171128358 |       60 |       4004 | Saturday    | Back
+ 171146526 |       71 |       4031 | Saturday    | Out
+ 171125960 |       92 |       2289 | Saturday    | Out
+ 171136053 |       50 |       6004 | Saturday    | Out
+ 171139601 |       19 |       2288 | Saturday    | Back
+ 171148906 |       50 |       6002 | Saturday    | Back
+ 171127773 |        6 |       2404 | Saturday    | Out
+ 171148797 |       50 |       6002 | Saturday    | Back
+ 171127225 |       72 |       2401 | Saturday    | Out
+ 171144258 |       37 |       4018 | Saturday    | Out
+ 171136646 |       50 |       6007 | Saturday    | Out
+ 171146728 |       71 |       4031 | Saturday    | Out
+ 171129872 |       37 |       4009 | Saturday    | Out
+ 171138685 |        7 |       2286 | Saturday    | Back
+ 171135107 |       50 |       6001 | Saturday    | Out
+ 171126992 |       72 |       2401 | Saturday    | Back
+ 171146993 |       71 |       4031 | Saturday    | Out
+ 171124784 |        7 |       2270 | Saturday    | Out
+ 171147678 |       60 |       4034 | Saturday    | Back
+ 171139258 |       25 |       2288 | Saturday    | Out
+ 171147515 |       60 |       4034 | Saturday    | Back
+ 171146625 |       71 |       4031 | Saturday    | Back
+ 171135617 |       50 |       6004 | Saturday    | Back
+ 171127814 |        6 |       2404 | Saturday    | Out
+ 171146659 |       71 |       4031 | Saturday    | Out
+ 171147803 |       60 |       4034 | Saturday    | Back
+ 171128179 |       60 |       4004 | Saturday    | Out
+ 171146491 |       71 |       4031 | Saturday    | Back
+ 171128325 |       60 |       4004 | Saturday    | Back
+ 171126173 |       92 |       2289 | Saturday    | Out
+ 171134734 |       37 |       4038 | Saturday    | Out
+ 171129927 |       37 |       4009 | Saturday    | Back
+ 171139346 |       25 |       2288 | Saturday    | Back
+ 171146594 |       71 |       4031 | Saturday    | Out
+ 171136712 |       50 |       6007 | Saturday    | Back
+ 171137282 |       50 |       6009 | Saturday    | Out
+ 171132506 |       37 |       4033 | Saturday    | Back
+ 171142089 |       74 |       4005 | Saturday    | Out
+ 171135783 |       50 |       6004 | Saturday    | Out
+ 171146131 |       71 |       4031 | Saturday    | Out
+ 171136622 |       50 |       6007 | Saturday    | Back
+ 171128085 |       60 |       4004 | Saturday    | Back
+ 171141402 |       71 |       4003 | Saturday    | Out
+ 171138776 |       80 |       2286 | Saturday    | Out
+ 171130391 |       60 |       4012 | Saturday    | Back
+ 171139748 |       78 |       2290 | Saturday    | Out
+ 171134304 |       37 |       4038 | Saturday    | Out
+ 171127756 |        6 |       2404 | Saturday    | Out
+ 171147800 |       60 |       4034 | Saturday    | Out
+ 171128271 |       60 |       4004 | Saturday    | Back
+ 171127615 |        6 |       2404 | Saturday    | Back
+ 171142117 |       74 |       4005 | Saturday    | Back
+ 171128158 |       60 |       4004 | Saturday    | Back
+ 171140223 |       78 |       2290 | Saturday    | Out
+ 171137782 |       80 |       2267 | Saturday    | Out
+ 171146688 |       71 |       4031 | Saturday    | Back
+ 171139979 |       78 |       2290 | Saturday    | Back
+ 171128443 |       60 |       4004 | Saturday    | Back
+ 171141167 |       71 |       4003 | Saturday    | Back
+ 171141685 |       74 |       4005 | Saturday    | Back
+ 171134845 |       37 |       4038 | Saturday    | Out
+ 171148848 |       50 |       6002 | Saturday    | Back
+ 171137879 |        7 |       2267 | Saturday    | Back
+ 171136914 |       50 |       6009 | Saturday    | Out
+ 171141981 |       74 |       4005 | Saturday    | Out
+ 171149149 |       50 |       6002 | Saturday    | Out
+ 171140049 |       78 |       2290 | Saturday    | Back
+ 171127460 |        6 |       2404 | Saturday    | Back
+ 171132183 |       37 |       4033 | Saturday    | Back
+ 171126696 |       72 |       2401 | Saturday    | Out
+ 171128250 |       60 |       4004 | Saturday    | Back
+ 171128100 |       60 |       4004 | Saturday    | Out
+ 171128309 |       60 |       4004 | Saturday    | Out
+ 171139187 |       19 |       2288 | Saturday    | Back
+ 171129441 |       37 |       4009 | Saturday    | Out
+ 171149042 |       50 |       6002 | Saturday    | Out
+ 171138199 |       80 |       2267 | Saturday    | Back
+ 171137109 |       50 |       6009 | Saturday    | Back
+ 171135232 |       50 |       6001 | Saturday    | Back
+ 171127698 |        6 |       2404 | Saturday    | Out
+ 171136691 |       50 |       6007 | Saturday    | Out
+ 171138220 |       80 |       2286 | Saturday    | Back
+ 171139914 |       78 |       2290 | Saturday    | Back
+ 171141740 |       74 |       4005 | Saturday    | Out
+ 171131381 |       65 |       4015 | Saturday    | Back
+ 171127515 |        6 |       2404 | Saturday    | Back
+ 171132353 |       37 |       4033 | Saturday    | Out
+ 171140255 |       78 |       2290 | Saturday    | Back
+ 171127484 |        6 |       2404 | Saturday    | Out
+ 171142641 |       37 |       4010 | Saturday    | Back
+ 171139582 |       19 |       2288 | Saturday    | Out
+ 171134948 |       50 |       6001 | Saturday    | Out
+ 171124862 |        7 |       2270 | Saturday    | Back
+ 171146880 |       71 |       4031 | Saturday    | Back
+ 171144511 |       37 |       4018 | Saturday    | Back
+ 171142168 |       74 |       4005 | Saturday    | Back
+ 171147694 |       60 |       4034 | Saturday    | Back
+ 171146913 |       71 |       4031 | Saturday    | Out
+ 171139788 |       78 |       2290 | Saturday    | Back
+ 171139466 |       19 |       2288 | Saturday    | Back
+ 171141961 |       74 |       4005 | Saturday    | Back
+ 171131479 |       65 |       4015 | Saturday    | Back
+ 171131368 |       65 |       4015 | Saturday    | Out
+ 171147718 |       60 |       4034 | Saturday    | Back
+ 171148932 |       50 |       6002 | Saturday    | Out
+ 171136180 |       50 |       6004 | Saturday    | Back
+ 171128440 |       60 |       4004 | Saturday    | Out
+ 171147662 |       60 |       4034 | Saturday    | Back
+ 171134465 |       37 |       4038 | Saturday    | Back
+ 171140554 |       78 |       2290 | Saturday    | Out
+ 171147840 |       60 |       4034 | Saturday    | Back
+ 171129765 |       37 |       4009 | Saturday    | Out
+ 171128431 |       60 |       4004 | Saturday    | Back
+ 171128268 |       60 |       4004 | Saturday    | Out
+ 171138154 |       80 |       2267 | Saturday    | Out
+ 171144409 |       37 |       4018 | Saturday    | Back
+ 171140192 |       78 |       2290 | Saturday    | Back
+ 171139531 |       25 |       2288 | Saturday    | Out
+ 171127630 |        6 |       2404 | Saturday    | Back
+ 171129238 |       37 |       4009 | Saturday    | Out
+ 171127500 |        6 |       2404 | Saturday    | Back
+ 171134923 |       50 |       6001 | Saturday    | Back
+ 171128004 |        6 |       2404 | Saturday    | Out
+ 171142702 |       37 |       4010 | Saturday    | Out
+ 171134120 |       37 |       4038 | Saturday    | Back
+ 171139116 |       25 |       2288 | Saturday    | Out
+ 171127469 |        6 |       2404 | Saturday    | Out
+ 171137601 |       80 |       2267 | Saturday    | Out
+ 171142337 |       37 |       4010 | Saturday    | Back
+ 171131680 |       65 |       4015 | Saturday    | Back
+ 171138977 |       25 |       2288 | Saturday    | Back
+ 171126757 |       72 |       2401 | Saturday    | Out
+ 171126595 |       92 |       2289 | Saturday    | Out
+ 171125690 |       92 |       2289 | Saturday    | Out
+ 171126670 |       72 |       2401 | Saturday    | Back
+ 171125076 |       19 |       2287 | Saturday    | Out
+ 171124122 |       80 |       2270 | Saturday    | Back
+ 171125364 |       19 |       2287 | Saturday    | Back
+ 171148823 |       50 |       6002 | Saturday    | Out
+ 171142489 |       37 |       4010 | Saturday    | Out
+ 171126927 |       72 |       2401 | Saturday    | Back
+ 171144629 |       37 |       4018 | Saturday    | Back
+ 171135492 |       50 |       6001 | Saturday    | Back
+ 171129814 |       37 |       4009 | Saturday    | Back
+ 171144863 |       37 |       4018 | Saturday    | Back
+ 171124546 |       80 |       2270 | Saturday    | Out
+ 171149507 |       50 |       6003 | Saturday    | Out
+ 171147633 |       60 |       4034 | Saturday    | Back
+ 171137427 |       80 |       2267 | Saturday    | Back
+ 171139063 |       25 |       2288 | Saturday    | Back
+ 171135315 |       50 |       6001 | Saturday    | Out
+ 171147727 |       60 |       4034 | Saturday    | Out
+ 171149324 |       50 |       6003 | Saturday    | Out
+ 171125346 |       19 |       2287 | Saturday    | Out
+ 171147657 |       60 |       4034 | Saturday    | Out
+ 171146757 |       71 |       4031 | Saturday    | Back
+ 171127874 |        6 |       2404 | Saturday    | Out
+ 171139327 |       19 |       2288 | Saturday    | Back
+ 171139483 |       25 |       2288 | Saturday    | Back
+ 171128322 |       60 |       4004 | Saturday    | Out
+ 171130313 |       37 |       4009 | Saturday    | Out
+ 171127523 |        6 |       2404 | Saturday    | Out
+ 171125892 |       92 |       2289 | Saturday    | Out
+ 171139168 |       19 |       2288 | Saturday    | Out
+ 171147816 |       60 |       4034 | Saturday    | Back
+ 171128379 |       60 |       4004 | Saturday    | Out
+ 171126135 |       92 |       2289 | Saturday    | Back
+ 171128395 |       60 |       4004 | Saturday    | Back
+ 171128367 |       60 |       4004 | Saturday    | Out
+ 171138284 |        7 |       2286 | Saturday    | Out
+ 171136414 |       50 |       6007 | Saturday    | Back
+ 171147851 |       60 |       4034 | Saturday    | Back
+ 171136359 |       50 |       6007 | Saturday    | Back
+ 171136280 |       50 |       6004 | Saturday    | Back
+ 171124303 |       80 |       2270 | Saturday    | Back
+ 171127731 |        6 |       2404 | Saturday    | Back
+ 171140088 |       78 |       2290 | Saturday    | Out
+ 171148959 |       50 |       6002 | Saturday    | Back
+ 171143330 |       37 |       4010 | Saturday    | Out
+ 171136155 |       50 |       6004 | Saturday    | Out
+ 171139720 |       25 |       2288 | Saturday    | Back
+ 171124825 |        7 |       2270 | Saturday    | Back
+ 171130027 |       37 |       4009 | Saturday    | Back
+ 171126622 |       72 |       2401 | Saturday    | Out
+ 171146463 |       71 |       4031 | Saturday    | Out
+ 171147596 |       60 |       4034 | Saturday    | Out
+ 171136548 |       50 |       6007 | Saturday    | Out
+ 171135470 |       50 |       6001 | Saturday    | Out
+ 171142291 |       74 |       4005 | Saturday    | Out
+ 171124739 |       80 |       2270 | Saturday    | Out
+ 171136498 |       50 |       6007 | Saturday    | Out
+ 171129497 |       37 |       4009 | Saturday    | Back
+ 171128402 |       60 |       4004 | Saturday    | Out
+ 171135020 |       50 |       6001 | Saturday    | Back
+ 171141236 |       71 |       4003 | Saturday    | Back
+ 171139944 |       78 |       2290 | Saturday    | Out
+ 171128145 |       60 |       4004 | Saturday    | Back
+ 171149243 |       50 |       6002 | Saturday    | Out
+ 171131729 |       65 |       4015 | Saturday    | Out
+ 171146230 |       71 |       4031 | Saturday    | Back
+ 171141206 |       71 |       4003 | Saturday    | Out
+ 171140937 |       71 |       4003 | Saturday    | Out
+ 171138991 |       25 |       2288 | Saturday    | Out
+ 171136735 |       50 |       6007 | Saturday    | Out
+ 171124260 |        7 |       2270 | Saturday    | Back
+ 171146099 |       71 |       4031 | Saturday    | Back
+ 171138023 |        7 |       2267 | Saturday    | Out
+ 171141274 |       71 |       4003 | Saturday    | Out
+ 171138865 |        7 |       2286 | Saturday    | Back
+ 171127978 |        6 |       2404 | Saturday    | Back
+ 171141305 |       71 |       4003 | Saturday    | Back
+ 171147776 |       60 |       4034 | Saturday    | Out
+ 171130347 |       60 |       4012 | Saturday    | Back
+ 171127687 |        6 |       2404 | Saturday    | Back
+ 171138066 |        7 |       2267 | Saturday    | Back
+ 171147791 |       60 |       4034 | Saturday    | Back
+ 171147618 |       60 |       4034 | Saturday    | Back
+ 171135263 |       50 |       6001 | Saturday    | Out
+ 171135078 |       50 |       6001 | Saturday    | Back
+ 171136126 |       50 |       6004 | Saturday    | Back
+ 171125381 |       25 |       2287 | Saturday    | Back
+ 171135393 |       50 |       6001 | Saturday    | Back
+ 171129662 |       37 |       4009 | Saturday    | Out
+ 171147703 |       60 |       4034 | Saturday    | Out
+ 171147768 |       60 |       4034 | Saturday    | Back
+ 171127935 |        6 |       2404 | Saturday    | Out
+ 171125622 |       19 |       2287 | Saturday    | Out
+ 171140638 |       71 |       4003 | Saturday    | Back
+ 171134362 |       37 |       4038 | Saturday    | Back
+ 171131419 |       65 |       4015 | Saturday    | Back
+ 171131606 |       65 |       4015 | Saturday    | Out
+ 171129285 |       37 |       4009 | Saturday    | Back
+ 171147829 |       60 |       4034 | Saturday    | Back
+ 171136754 |       50 |       6007 | Saturday    | Back
+ 171126062 |       92 |       2289 | Saturday    | Back
+ 171125640 |       19 |       2287 | Saturday    | Back
+ 171147756 |       60 |       4034 | Saturday    | Back
+ 171131388 |       65 |       4015 | Saturday    | Out
+ 171146293 |       71 |       4031 | Saturday    | Back
+ 171138455 |        7 |       2286 | Saturday    | Out
+ 171135289 |       50 |       6001 | Saturday    | Back
+ 171147745 |       60 |       4034 | Saturday    | Back
+ 171142067 |       74 |       4005 | Saturday    | Back
+ 171127830 |        6 |       2404 | Saturday    | Out
+ 171147545 |       60 |       4034 | Saturday    | Back
+ 171141934 |       74 |       4005 | Saturday    | Out
+ 171141462 |       71 |       4003 | Saturday    | Out
+ 171125111 |       25 |       2287 | Saturday    | Back
+ 171125246 |       25 |       2287 | Saturday    | Back
+ 171144245 |       37 |       4018 | Saturday    | Back
+ 171137922 |       80 |       2267 | Saturday    | Back
+ 171135916 |       50 |       6004 | Saturday    | Back
+ 171147480 |       60 |       4034 | Saturday    | Out
+ 171137975 |       80 |       2267 | Saturday    | Out
+ 171128418 |       60 |       4004 | Saturday    | Back
+ 171142140 |       74 |       4005 | Saturday    | Out
+ 171124407 |        7 |       2270 | Saturday    | Out
+ 171130376 |       60 |       4012 | Saturday    | Back
+ 171144954 |       37 |       4018 | Saturday    | Back
+ 171142595 |       37 |       4010 | Saturday    | Out
+ 171149199 |       50 |       6002 | Saturday    | Out
+ 171142011 |       74 |       4005 | Saturday    | Back
+ 171127540 |        6 |       2404 | Saturday    | Out
+ 171131400 |       65 |       4015 | Saturday    | Back
+ 171128344 |       60 |       4004 | Saturday    | Out
+ 171138589 |       80 |       2286 | Saturday    | Out
+ 171136998 |       50 |       6009 | Saturday    | Back
+ 171137694 |        7 |       2267 | Saturday    | Back
+ 171127910 |        6 |       2404 | Saturday    | Back
+ 171147600 |       60 |       4034 | Saturday    | Back
+ 171140490 |       78 |       2290 | Saturday    | Out
+ 171126956 |       72 |       2401 | Saturday    | Out
+ 171146261 |       71 |       4031 | Saturday    | Out
+ 171132402 |       37 |       4033 | Saturday    | Back
+ 171141491 |       71 |       4003 | Saturday    | Back
+ 171127746 |        6 |       2404 | Saturday    | Back
+ 171131579 |       65 |       4015 | Saturday    | Back
+ 171147706 |       60 |       4034 | Saturday    | Back
+ 171147531 |       60 |       4034 | Saturday    | Back
+ 171128260 |       60 |       4004 | Saturday    | Back
+ 171141885 |       74 |       4005 | Saturday    | Out
+ 171140698 |       71 |       4003 | Saturday    | Back
+ 171137650 |        7 |       2267 | Saturday    | Out
+ 171131660 |       65 |       4015 | Saturday    | Back
+ 171126388 |       92 |       2289 | Saturday    | Out
+ 171128227 |       60 |       4004 | Saturday    | Out
+ 171140154 |       78 |       2290 | Saturday    | Out
+ 171137135 |       50 |       6009 | Saturday    | Out
+ 171149304 |       50 |       6003 | Saturday    | Back
+ 171136523 |       50 |       6007 | Saturday    | Back
+ 171127356 |       72 |       2401 | Saturday    | Out
+ 171128457 |       60 |       4004 | Saturday    | Back
+ 171128165 |       60 |       4004 | Saturday    | Out
+ 171134527 |       37 |       4038 | Saturday    | Out
+ 171147629 |       60 |       4034 | Saturday    | Out
+ 171128405 |       60 |       4004 | Saturday    | Back
+ 171125788 |       92 |       2289 | Saturday    | Back
+ 171136026 |       50 |       6004 | Saturday    | Back
+ 171136863 |       50 |       6009 | Saturday    | Out
+ 171141606 |       71 |       4003 | Saturday    | Back
+ 171127559 |        6 |       2404 | Saturday    | Back
+ 171126889 |       72 |       2401 | Saturday    | Out
+ 171128293 |       60 |       4004 | Saturday    | Out
+ 171135859 |       50 |       6004 | Saturday    | Back
+ 171147571 |       60 |       4034 | Saturday    | Back
+ 171140289 |       78 |       2290 | Saturday    | Out
+ 171134415 |       37 |       4038 | Saturday    | Out
+ 171149346 |       50 |       6003 | Saturday    | Back
+ 171136205 |       50 |       6004 | Saturday    | Out
+ 171137440 |       80 |       2267 | Saturday    | Out
+ 171131348 |       65 |       4015 | Saturday    | Out
+ 171134996 |       50 |       6001 | Saturday    | Out
+ 171138235 |       80 |       2286 | Saturday    | Out
+ 171130079 |       37 |       4009 | Saturday    | Out
+ 171135886 |       50 |       6004 | Saturday    | Out
+ 171142426 |       37 |       4010 | Saturday    | Back
+ 171136230 |       50 |       6004 | Saturday    | Back
+ 171131449 |       65 |       4015 | Saturday    | Out
+ 171131599 |       65 |       4015 | Saturday    | Back
+ 171128297 |       60 |       4004 | Saturday    | Back
+ 171127673 |        6 |       2404 | Saturday    | Back
+ 171135807 |       50 |       6004 | Saturday    | Back
+ 171149098 |       50 |       6002 | Saturday    | Out
+ 171144802 |       37 |       4018 | Saturday    | Out
+ 171141069 |       71 |       4003 | Saturday    | Out
+ 171125824 |       92 |       2289 | Saturday    | Out
+ 171147741 |       60 |       4034 | Saturday    | Out
+ 171131668 |       65 |       4015 | Saturday    | Out
+ 171146328 |       71 |       4031 | Saturday    | Out
+ 171128220 |       60 |       4004 | Saturday    | Back
+ 171142321 |       37 |       4010 | Saturday    | Back
+ 171128119 |       60 |       4004 | Saturday    | Back
+ 171141638 |       71 |       4003 | Saturday    | Out
+ 171140870 |       71 |       4003 | Saturday    | Out
+ 171138497 |        7 |       2286 | Saturday    | Back
+ 171124645 |        7 |       2270 | Saturday    | Back
+ 171140669 |       71 |       4003 | Saturday    | Out
+ 171131528 |       65 |       4015 | Saturday    | Out
+ 171133036 |       37 |       4033 | Saturday    | Back
+ 171142867 |       37 |       4010 | Saturday    | Back
+ 171125857 |       92 |       2289 | Saturday    | Back
+ 171142760 |       37 |       4010 | Saturday    | Back
+ 171125163 |       25 |       2287 | Saturday    | Out
+ 171127791 |        6 |       2404 | Saturday    | Back
+ 171142545 |       37 |       4010 | Saturday    | Back
+ 171147813 |       60 |       4034 | Saturday    | Out
+ 171130372 |       60 |       4012 | Saturday    | Out
+ 171126820 |       72 |       2401 | Saturday    | Out
+ 171149435 |       50 |       6003 | Saturday    | Back
+ 171127421 |       72 |       2401 | Saturday    | Out
+ 171131699 |       65 |       4015 | Saturday    | Back
+ 171136305 |       50 |       6004 | Saturday    | Out
+ 171134913 |       50 |       6001 | Saturday    | Back
+ 171139820 |       78 |       2290 | Saturday    | Out
+ 171128333 |       60 |       4004 | Saturday    | Out
+ 171133078 |       37 |       4033 | Saturday    | Out
+ 171147614 |       60 |       4034 | Saturday    | Out
+ 171147715 |       60 |       4034 | Saturday    | Out
+ 171129380 |       37 |       4009 | Saturday    | Back
+ 171136888 |       50 |       6009 | Saturday    | Back
+ 171129221 |       37 |       4009 | Saturday    | Back
+ 171126028 |       92 |       2289 | Saturday    | Out
+ 171135051 |       50 |       6001 | Saturday    | Out
+ 171131426 |       65 |       4015 | Saturday    | Out
+ 171147552 |       60 |       4034 | Saturday    | Out
+ 171130401 |       60 |       4012 | Saturday    | Out
+ 171149175 |       50 |       6002 | Saturday    | Back
+ 171137157 |       50 |       6009 | Saturday    | Back
+ 171131486 |       65 |       4015 | Saturday    | Out
+ 171127060 |       72 |       2401 | Saturday    | Back
+ 171127965 |        6 |       2404 | Saturday    | Back
+ 171125721 |       92 |       2289 | Saturday    | Back
+ 171140604 |       71 |       4003 | Saturday    | Out
+ 171125576 |       25 |       2287 | Saturday    | Out
+ 171130225 |       37 |       4009 | Saturday    | Back
+ 171131741 |       65 |       4015 | Saturday    | Out
+ 171128212 |       60 |       4004 | Saturday    | Out
+ 171126206 |       92 |       2289 | Saturday    | Back
+ 171125679 |       92 |       2289 | Saturday    | Back
+ 171131499 |       65 |       4015 | Saturday    | Back
+ 171147753 |       60 |       4034 | Saturday    | Out
+ 171130270 |       37 |       4009 | Saturday    | Out
+ 171145952 |       71 |       4031 | Saturday    | Out
+ 171149566 |       50 |       6003 | Saturday    | Out
+ 171128256 |       60 |       4004 | Saturday    | Out
+ 171140732 |       71 |       4003 | Saturday    | Out
+ 171139760 |       78 |       2290 | Saturday    | Out
+ 171149221 |       50 |       6002 | Saturday    | Back
+ 171149371 |       50 |       6003 | Saturday    | Out
+ 171149458 |       50 |       6003 | Saturday    | Out
+ 171125297 |       25 |       2287 | Saturday    | Out
+ 171124452 |        7 |       2270 | Saturday    | Back
+ 171124216 |        7 |       2270 | Saturday    | Out
+ 171136668 |       50 |       6007 | Saturday    | Back
+ 171143039 |       37 |       4010 | Saturday    | Out
+ 171127598 |        6 |       2404 | Saturday    | Out
+ 171125521 |       25 |       2287 | Saturday    | Back
+ 171126634 |       72 |       2401 | Saturday    | Out
+ 171130387 |       60 |       4012 | Saturday    | Out
+ 171141911 |       74 |       4005 | Saturday    | Back
+ 171136443 |       50 |       6007 | Saturday    | Out
+ 171128370 |       60 |       4004 | Saturday    | Back
+ 171137084 |       50 |       6009 | Saturday    | Out
+ 171136574 |       50 |       6007 | Saturday    | Back
+ 171141341 |       71 |       4003 | Saturday    | Out
+ 171137234 |       50 |       6009 | Saturday    | Out
+ 171126528 |       92 |       2289 | Saturday    | Out
+ 171147780 |       60 |       4034 | Saturday    | Back
+ 171128284 |       60 |       4004 | Saturday    | Back
+ 171137556 |       80 |       2267 | Saturday    | Back
+ 171129548 |       37 |       4009 | Saturday    | Out
+ 171140388 |       78 |       2290 | Saturday    | Back
+ 171141766 |       74 |       4005 | Saturday    | Back
+ 171136973 |       50 |       6009 | Saturday    | Out
+ 171126561 |       92 |       2289 | Saturday    | Back
+ 171141369 |       71 |       4003 | Saturday    | Back
+ 171147764 |       60 |       4034 | Saturday    | Out
+ 171140831 |       71 |       4003 | Saturday    | Back
+ 171131407 |       65 |       4015 | Saturday    | Out
+ 171140523 |       78 |       2290 | Saturday    | Back
+ 171127848 |        6 |       2404 | Saturday    | Back
+ 171131460 |       65 |       4015 | Saturday    | Back
+ 171139618 |       25 |       2288 | Saturday    | Back
+ 171135419 |       50 |       6001 | Saturday    | Out
+ 171146422 |       71 |       4031 | Saturday    | Back
+ 171143192 |       37 |       4010 | Saturday    | Back
+ 171127129 |       72 |       2401 | Saturday    | Back
+ 171146199 |       71 |       4031 | Saturday    | Out
+ 171147470 |       60 |       4034 | Saturday    | Out
+ 171142381 |       37 |       4010 | Saturday    | Out
+ 171127805 |        6 |       2404 | Saturday    | Back
+ 171132944 |       37 |       4033 | Saturday    | Back
+ 171128241 |       60 |       4004 | Saturday    | Out
+ 171127989 |        6 |       2404 | Saturday    | Out
+ 171128107 |       60 |       4004 | Saturday    | Back
+ 171128392 |       60 |       4004 | Saturday    | Out
+ 171135833 |       50 |       6004 | Saturday    | Out
+ 171135517 |       50 |       6001 | Saturday    | Out
+ 171145069 |       37 |       4018 | Saturday    | Out
+ 171141035 |       71 |       4003 | Saturday    | Back
+ 171147501 |       60 |       4034 | Saturday    | Back
+ 171130177 |       37 |       4009 | Saturday    | Out
+ 171126795 |       72 |       2401 | Saturday    | Back
+ 171126244 |       92 |       2289 | Saturday    | Out
+ 171128383 |       60 |       4004 | Saturday    | Back
+ 171136471 |       50 |       6007 | Saturday    | Back
+ 171132171 |       37 |       4033 | Saturday    | Back
+ 171136599 |       50 |       6007 | Saturday    | Out
+ 171127198 |       72 |       2401 | Saturday    | Back
+ 171141719 |       74 |       4005 | Saturday    | Back
+ 171143145 |       37 |       4010 | Saturday    | Out
+ 171128112 |       60 |       4004 | Saturday    | Out
+ 171135945 |       50 |       6004 | Saturday    | Out
+ 171149124 |       50 |       6002 | Saturday    | Back
+ 171146554 |       71 |       4031 | Saturday    | Back
+ 171135756 |       50 |       6004 | Saturday    | Back
+ 171148772 |       50 |       6002 | Saturday    | Out
+ 171134892 |       37 |       4038 | Saturday    | Out
+ 171146816 |       71 |       4031 | Saturday    | Back
+ 171129717 |       37 |       4009 | Saturday    | Back
+ 171147536 |       60 |       4034 | Saturday    | Out
+ 171138411 |       80 |       2286 | Saturday    | Out
+ 171127949 |        6 |       2404 | Saturday    | Out
+ 171128195 |       60 |       4004 | Saturday    | Out
+ 171142812 |       37 |       4010 | Saturday    | Out
+ 171145016 |       37 |       4018 | Saturday    | Out
+ 171137523 |        7 |       2267 | Saturday    | Back
+ 171132782 |       37 |       4033 | Saturday    | Out
+ 171144573 |       37 |       4018 | Saturday    | Out
+ 171147494 |       60 |       4034 | Saturday    | Out
+ 171143087 |       37 |       4010 | Saturday    | Back
+ 171125657 |       19 |       2287 | Saturday    | Back
+ 171135562 |       50 |       6001 | Saturday    | Out
+ 171132990 |       37 |       4033 | Saturday    | Out
+ 171134675 |       37 |       4038 | Saturday    | Back
+ 171145943 |       71 |       4031 | Saturday    | Back
+ 171134181 |       37 |       4038 | Saturday    | Out
+ 171134628 |       37 |       4038 | Saturday    | Out
+ 171147691 |       60 |       4034 | Saturday    | Out
+ 171146356 |       71 |       4031 | Saturday    | Back
+ 171127640 |        6 |       2404 | Saturday    | Out
+ 171141524 |       71 |       4003 | Saturday    | Out
+ 171140966 |       71 |       4003 | Saturday    | Back
+ 171134581 |       37 |       4038 | Saturday    | Back
+ 171141549 |       71 |       4003 | Saturday    | Back
+ 171128336 |       60 |       4004 | Saturday    | Back
+ 171125435 |       25 |       2287 | Saturday    | Out
+ 171131687 |       65 |       4015 | Saturday    | Out
+ 171127332 |       72 |       2401 | Saturday    | Back
+ 171146013 |       71 |       4031 | Saturday    | Out
+ 171138904 |       80 |       2286 | Saturday    | Back
+ 171139881 |       78 |       2290 | Saturday    | Out
+ 171128453 |       60 |       4004 | Saturday    | Out
+ 171127573 |        6 |       2404 | Saturday    | Back
+ 171139852 |       78 |       2290 | Saturday    | Back
+ 171137734 |       80 |       2267 | Saturday    | Back
+ 171147506 |       60 |       4034 | Saturday    | Out
+ 171132613 |       37 |       4033 | Saturday    | Back
+ 171135608 |       50 |       6004 | Saturday    | Out
+ 171146938 |       71 |       4031 | Saturday    | Back
+ 171138358 |       80 |       2286 | Saturday    | Back
+ 171144360 |       37 |       4018 | Saturday    | Out
+ 171149413 |       50 |       6003 | Saturday    | Out
+ 171140323 |       78 |       2290 | Saturday    | Back
+ 171142238 |       74 |       4005 | Saturday    | Out
+ 171127156 |       72 |       2401 | Saturday    | Out
+ 171126282 |       92 |       2289 | Saturday    | Back
+ 171129332 |       37 |       4009 | Saturday    | Out
+ 171149016 |       50 |       6002 | Saturday    | Back
+ 171125212 |       19 |       2287 | Saturday    | Out
+ 171137210 |       50 |       6009 | Saturday    | Back
+ 171147823 |       60 |       4034 | Saturday    | Out
+ 171143373 |       37 |       4010 | Saturday    | Back
+ 171132560 |       37 |       4033 | Saturday    | Out
+ 171131438 |       65 |       4015 | Saturday    | Back
+ 171132463 |       37 |       4033 | Saturday    | Out
+ 171127925 |        6 |       2404 | Saturday    | Back
+ 171139399 |       25 |       2288 | Saturday    | Out
+ 171146040 |       71 |       4031 | Saturday    | Back
+ 171128095 |       60 |       4004 | Saturday    | Back
+ 171131323 |       65 |       4015 | Saturday    | Back
+ 171131640 |       65 |       4015 | Saturday    | Back
+ 171131311 |       65 |       4015 | Saturday    | Out
+ 171131567 |       65 |       4015 | Saturday    | Out
+ 171131546 |       65 |       4015 | Saturday    | Out
+ 171137258 |       50 |       6009 | Saturday    | Back
+ 171128044 |        6 |       2404 | Saturday    | Out
+ 171141833 |       74 |       4005 | Saturday    | Out
+ 171140613 |       71 |       4003 | Saturday    | Out
+ 171132299 |       37 |       4033 | Saturday    | Back
+ 171125993 |       92 |       2289 | Saturday    | Back
+ 171142931 |       37 |       4010 | Saturday    | Out
+ 171131619 |       65 |       4015 | Saturday    | Back
+ 171127655 |        6 |       2404 | Saturday    | Out
+ 171149481 |       50 |       6003 | Saturday    | Back
+ 171140801 |       71 |       4003 | Saturday    | Out
+ 171146071 |       71 |       4031 | Saturday    | Out
+ 171138322 |        7 |       2286 | Saturday    | Back
+ 171140904 |       71 |       4003 | Saturday    | Back
+ 171130363 |       60 |       4012 | Saturday    | Back
+ 171138826 |        7 |       2286 | Saturday    | Out
+ 171125483 |       19 |       2287 | Saturday    | Out
+ 171125229 |       19 |       2287 | Saturday    | Back
+ 171139308 |       19 |       2288 | Saturday    | Out
+ 171135368 |       50 |       6001 | Saturday    | Out
+ 171137833 |        7 |       2267 | Saturday    | Out
+ 171135538 |       50 |       6001 | Saturday    | Back
+ 171147788 |       60 |       4034 | Saturday    | Out
+ 171128347 |       60 |       4004 | Saturday    | Back
+ 171135152 |       50 |       6001 | Saturday    | Out
+ 171126100 |       92 |       2289 | Saturday    | Out
+ 171142036 |       74 |       4005 | Saturday    | Out
+ 171128426 |       60 |       4004 | Saturday    | Out
+ 171146161 |       71 |       4031 | Saturday    | Back
+ 171141003 |       71 |       4003 | Saturday    | Out
+ 171126494 |       92 |       2289 | Saturday    | Back
+ 171139447 |       19 |       2288 | Saturday    | Out
+ 171136076 |       50 |       6004 | Saturday    | Back
+ 171137486 |        7 |       2267 | Saturday    | Out
+ 171141430 |       71 |       4003 | Saturday    | Back
+ 171144687 |       37 |       4018 | Saturday    | Out
+ 171124168 |       80 |       2270 | Saturday    | Out
+ 171132679 |       37 |       4033 | Saturday    | Out
+ 171127294 |       72 |       2401 | Saturday    | Out
+ 171143239 |       37 |       4010 | Saturday    | Out
+ 171140763 |       71 |       4003 | Saturday    | Back
+ 171132243 |       37 |       4033 | Saturday    | Out
+ 171124492 |       80 |       2270 | Saturday    | Back
+ 171145978 |       71 |       4031 | Saturday    | Back
+ 171131720 |       65 |       4015 | Saturday    | Back
+ 171138727 |       80 |       2286 | Saturday    | Back
+ 171130124 |       37 |       4009 | Saturday    | Back
+ 171131586 |       65 |       4015 | Saturday    | Out
+ 171149538 |       50 |       6003 | Saturday    | Back
+ 171139047 |       19 |       2288 | Saturday    | Back
+ 171128280 |       60 |       4004 | Saturday    | Out
+ 171146789 |       71 |       4031 | Saturday    | Out
+ 171134107 |       37 |       4038 | Saturday    | Back
+ 171128151 |       60 |       4004 | Saturday    | Out
+ 171136823 |       50 |       6009 | Saturday    | Out
+ 171127889 |        6 |       2404 | Saturday    | Out
+ 171125029 |       25 |       2287 | Saturday    | Out
+ 171126732 |       72 |       2401 | Saturday    | Back
+ 171144458 |       37 |       4018 | Saturday    | Out
+ 171127091 |       72 |       2401 | Saturday    | Out
+ 171132888 |       37 |       4033 | Saturday    | Out
+ 171147562 |       60 |       4034 | Saturday    | Back
+ 171135176 |       50 |       6001 | Saturday    | Back
+ 171135972 |       50 |       6004 | Saturday    | Back
+ 171128189 |       60 |       4004 | Saturday    | Back
+ 171147731 |       60 |       4034 | Saturday    | Back
+ 171136001 |       50 |       6004 | Saturday    | Out
+ 171135708 |       50 |       6004 | Saturday    | Back
+ 171135662 |       50 |       6004 | Saturday    | Back
+ 171131467 |       65 |       4015 | Saturday    | Out
+ 171136386 |       50 |       6007 | Saturday    | Out
+ 171124904 |       25 |       2287 | Saturday    | Back
+ 171132732 |       37 |       4033 | Saturday    | Back
+(846 rows)
+

@@ -48,6 +48,8 @@ def jsonTocsv():
         jsondata = json.load(json_file)
     data_file = open(CSV_PATH,'w',newline='')
     csv_writer = csv.writer(data_file)
+    
+    # print(type(jsondata))  <'list'>
 
     count = 0
     for data in jsondata:
@@ -56,6 +58,7 @@ def jsonTocsv():
             csv_writer.writerow(header)
             count += 1
         csv_writer.writerow(data.values())
+    print(type(csv_writer))
 
 def getcsvdata():
     with open('jsontocsv.csv', mode='r') as fil:
@@ -132,11 +135,8 @@ def assertion():
     # The average speed of all C-Tran buses should be around 15.
 
 
-
-
-
 def main():
-    # jsonTocsv()
+    jsonTocsv()
     # rowlist = getcsvdata()
     # cop_from(rowlist)
     assertion()

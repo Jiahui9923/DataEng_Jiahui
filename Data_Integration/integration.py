@@ -29,7 +29,7 @@ df_census['IncomePerCap'] = df_census['IncomePerCap'] * df_census['TotalPop']
 # To Get New Table
 # df_county_info = df_census.groupby(['State','County'],sort=False)['TotalPop'].sum().reset_index()
 df_county_info = df_census.groupby(['State','County']).agg({'TotalPop':'sum','Poverty':'sum','IncomePerCap':'sum'})
-# print(df_county_info)
+print(df_county_info)
 
 # modify
 df_county_info['IncomePerCap'] = df_county_info['IncomePerCap'] / df_county_info['TotalPop']
@@ -78,6 +78,8 @@ df_covid_new = df_covid.groupby(['month_year','county','state'],sort=False).agg(
 df_covid_new = pd.DataFrame(df_covid_new)
 df_covid_new.reset_index(inplace=True)
 
+print(df_covid_new)
+
 # print(df_id)
 # df_covid_final = pd.merge(df_covid_new,df_id,how='left',on='county')
 df_covid_final = df_covid_new.merge(df_id,how='left',on=['county','state'])
@@ -106,10 +108,6 @@ df_total_cases['cases'] = df_total_cases['cases'].astype(float)
 df_total_cases['deaths'] = df_total_cases['deaths'].astype(float)
 df_total_cases = pd.DataFrame(df_total_cases)
 df_total_cases.reset_index(inplace=True)
-# print(df_total_cases)
-# df_county_info_new['new_county'] = df_county_info_new['County'].str.replace('[^\s]*$','')
-# print(df_county_info_new)
-
 
 warnings.filterwarnings("ignore")
 df_acs_covid = df_county_info.merge(df_total_cases,how='left',on='ID')
@@ -165,15 +163,6 @@ Rub = df_usa['TotalDeathsPer100K'].corr(df_usa['Poverty'])
 Ruc = df_usa['TotalCasesPer100K'].corr(df_usa['IncomePerCap'])
 Rud = df_usa['TotalDeathsPer100K'].corr(df_usa['IncomePerCap'])
 Rue = df_usa['TotalCasesPer100K'].corr(df_usa['TotalPop'])
-
-# print(df_usa)
-# print(Rua)
-# print(Rub)
-# print(Ruc)
-# print(Rud)
-# print(Rue)
-
-
 
 # Question of exploration
 
